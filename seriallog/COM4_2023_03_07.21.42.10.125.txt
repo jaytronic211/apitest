@@ -1,0 +1,151 @@
+45{"data":[{"node":1,"value":6666,"unit":"W"}]}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+45{"data":[{"node":1,"value":6666,"unit":"W"}]}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:42:11 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":02:11.000Z"}]}-
+-------
+
+:1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T0745{"data":[{"node":1,"value":6666,"unit":"W"}]}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:42:13 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+45{"data":[{"node":1,"value":6666,"unit":"W"}]}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:42:15 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+45{"data":[{"node":1,"value":6666,"unit":"W"}]}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:42:17 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+45{"data":[{"node":1,"value":6666,"unit":"W"}]}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:42:19 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+45{"data":[{"node":1,"value":6666,"unit":"W"}]}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:42:21 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+45{"data":[{"node":1,"value":6666,"unit":"W"}]}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:42:23 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+

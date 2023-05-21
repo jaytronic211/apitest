@@ -1,0 +1,1140 @@
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:34 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:36 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:38 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:42 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:44 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:46 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:48 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07  timeout=5
+
+{"data":[{"id":1,"nod
+on: keep-alive
+Keep-Alive:Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updatMar 2023 13:26:50 GMT
+Connectied_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:52 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:55 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:56 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":["2023-02-26T07:02:11.000Z"}]}-
+-------
+
+ length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":{"id":1,"nod
+Recieved data32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:26:59 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:00 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:02 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:04 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:06 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:08 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:14 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:16 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:18 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:20 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:22 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:24 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:26 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:28 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:30 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:32 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:34 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:36 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:38 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:40 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:42 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:44 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:46 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:48 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:50 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:52 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:54 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:56 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:27:58 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:00 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:02 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:04 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:06 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:08 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:14 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:16 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:18 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:20 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:22 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:24 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+
+32
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B
+Recieved data length: 128 
+dZH92mtHv+A9GrBB4U"
+Date: Tue, 07 Mar 2023 13:28:26 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"nod
+Recieved data length: 74 
+e":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"}]}-
+-------
+

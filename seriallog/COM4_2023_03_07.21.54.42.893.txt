@@ -1,0 +1,1917 @@
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:42 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:44 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:46 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:48 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:50 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:52 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.00ss
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+--0Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+-----
+
+X-Powered-By: Expre34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:54 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:56 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:54:58 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:00 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:02 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:04 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:06 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:08 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:10 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:12 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:14 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:16 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:18 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:20 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:22 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:24 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:27 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:34 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:34 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 128 
+"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Leng
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+th: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:34 GMT
+Connection: keep-alive
+Keep-Alive: time
+Recieved data length: 128 
+out=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":
+Recieved data length: 128 
+6666,"unit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:34 GMT
+Connection:
+Recieved data length: 128 
+ keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000
+Recieved data length: 87 
+Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:41 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:41 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:41 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 128 
+"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Leng
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+th: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:42 GMT
+Connection: keep-alive
+Keep-Alive: time
+Recieved data length: 128 
+out=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":
+Recieved data length: 58 
+6666,"unit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:50 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:50 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 128 
+"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Leng
+Recieved data length: 128 
+th: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:50 GMT
+Connection: keep-alive
+Keep-Alive: time
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+out=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":
+Recieved data length: 58 
+6666,"unit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:50 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 128 
+"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Leng
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+th: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:55 GMT
+Connection: keep-alive
+Keep-Alive: time
+Recieved data length: 128 
+out=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":
+Recieved data length: 128 
+6666,"unit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:55 GMT
+Connection:
+Recieved data length: 128 
+ keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000
+Recieved data length: 128 
+Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+C
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+ontent-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2
+Recieved data length: 128 
+023 13:55:56 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated
+Recieved data length: 94 
+_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":"2023-0v
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+3-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+Recieved data length: 128 
+
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:55:58 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+Recieved data length: 128 
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"u
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 51 
+nit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:56:00 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:56:07 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+Recieved data length: 29 
+"2023-03-07T13:51:11.000Z"}]}"
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsN
+Recieved data length: 128 
+gz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:56:07 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"no
+Recieved data length: 128 
+de":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Leng
+Recieved data length: 128 
+th: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:56:07 GMT
+Connection: keep-alive
+Keep-Alive: time
+Recieved data length: 128 
+out=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000Z"},{"id":2,"node":1,"value":
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 128 
+6666,"unit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json
+Recieved data length: 128 
+; charset=utf-8
+Content-Length: 177
+ETag: W/"b1-F+vCHIsNgz6gfbg/HuUGH041DOY"
+Date: Tue, 07 Mar 2023 13:56:08 GMT
+Connection:
+Recieved data length: 128 
+ keep-alive
+Keep-Alive: timeout=5
+
+{"data":[{"id":1,"node":1,"value":2345.55,"unit":"W","updated_at":"2023-02-26T07:02:11.000
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: 87 
+Z"},{"id":2,"node":1,"value":6666,"unit":"W","updated_at":"2023-03-07T13:51:11.000Z"}]}"
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+Recieved data length: -1 
+
+-------
+
+34{"node":1,"value":6666,"unit":"W"}
+-------
+

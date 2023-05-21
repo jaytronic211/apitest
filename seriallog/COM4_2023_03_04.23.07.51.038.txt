@@ -1,0 +1,58 @@
+Attempt fetch data from 10.10.5.34 
+getting data
+-----
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B-----
+Attempt fetch data from 10.10.5.34 
+Client not connected
+Connection succeeded
+-----
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B-----
+Attempt fetch data from 10.10.5.34 
+getting data
+-----
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B-----
+Attempt fetch data from 10.10.5.34 
+getting data
+-----
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B-----
+Attempt fetch data from 10.10.5.34 
+Client not connected
+Connection succeeded
+-----
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B-----
+Attempt fetch data from 10.10.5.34 
+getting data
+-----
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B-----
+Attempt fetch data from 10.10.5.34 
+getting data
+-----
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 95
+ETag: W/"5f-kmuPt6i2B-----

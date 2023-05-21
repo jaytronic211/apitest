@@ -1,15 +1,11 @@
 const db = require('./db');
-const helper = require('../helper');
-const config = require('../config');
 
-async function getMultiple(page = 1){
-  const offset = helper.getOffset(page, config.listPerPage);
+async function getMultiple(){
   const rows = await db.query(
     `SELECT id, node, value, unit, updated_at 
     FROM active_pwr`
   );
-  const data = helper.emptyOrRows(rows);
-  const meta = {page};
+  const data = emptyOrRows(rows);
 
   return {
     data
@@ -61,6 +57,13 @@ async function remove(id){
   }
 
   return {message};
+}
+
+function emptyOrRows(rows){
+  if (!rows) {
+    return [];
+  }
+  return rows;
 }
 
 module.exports = {
